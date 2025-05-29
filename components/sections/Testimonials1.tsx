@@ -65,7 +65,7 @@ export default function Testimonials1() {
 													<i className="ri-star-fill fs-7 text-primary-1" />
 													<i className="ri-star-fill fs-7 text-500 " />
 												</div>
-												<h6 className="mb-7">“Working with William was an absolute pleasure. His attention to detail and user-focused design approach significantly improved our product's usability”</h6>
+												<h6 className="mb-7">“Working with muntasir was an absolute pleasure. His attention to detail and user-focused design approach significantly improved our product's usability”</h6>
 												<Link href="/#" className="d-flex align-items-center">
 													<img className="icon_65 avatar" src="/assets/imgs/testimonials/testimonials-1/avatar-1.png" alt="infinia" />
 													<h6 className="ms-2 mb-0">John Doe <span className="fs-6 fw-regular"> - Head of Legal and Compliance, Tech Innovators</span></h6>
@@ -97,7 +97,7 @@ export default function Testimonials1() {
 													<i className="ri-star-fill fs-7 text-primary-1" />
 													<i className="ri-star-fill fs-7 text-500 text-primary-1" />
 												</div>
-												<h6 className="mb-7">“Working with William was an absolute pleasure. His attention to detail and user-focused design approach significantly improved our product's usability”</h6>
+												<h6 className="mb-7">“Working with muntasir was an absolute pleasure. His attention to detail and user-focused design approach significantly improved our product's usability”</h6>
 												<Link href="/#text-primary-1" className="d-flex align-items-center">
 													<img className="icon_65 avatar" src="/assets/imgs/testimonials/testimonials-1/avatar-2.png" alt="infinia" />
 													<h6 className="ms-2 mb-0">John Doe <span className="fs-6 fw-regular"> - Head of Legal and Compliance, Tech Innovators</span></h6>
@@ -129,7 +129,7 @@ export default function Testimonials1() {
 													<i className="ri-star-fill fs-7 text-primary-1" />
 													<i className="ri-star-fill fs-7 text-500 " />
 												</div>
-												<h6 className="mb-7">“Working with William was an absolute pleasure. His attention to detail and user-focused design approach significantly improved our product's usability”</h6>
+												<h6 className="mb-7">“Working with muntasir was an absolute pleasure. His attention to detail and user-focused design approach significantly improved our product's usability”</h6>
 												<Link href="/#" className="d-flex align-items-center">
 													<img className="icon_65 avatar" src="/assets/imgs/testimonials/testimonials-1/avatar-1.png" alt="infinia" />
 													<h6 className="ms-2 mb-0">John Doe <span className="fs-6 fw-regular"> - Head of Legal and Compliance, Tech Innovators</span></h6>
@@ -161,7 +161,7 @@ export default function Testimonials1() {
 													<i className="ri-star-fill fs-7 text-primary-1" />
 													<i className="ri-star-fill fs-7 text-500 text-primary-1" />
 												</div>
-												<h6 className="mb-7">“Working with William was an absolute pleasure. His attention to detail and user-focused design approach significantly improved our product's usability”</h6>
+												<h6 className="mb-7">“Working with muntasir was an absolute pleasure. His attention to detail and user-focused design approach significantly improved our product's usability”</h6>
 												<Link href="/#text-primary-1" className="d-flex align-items-center">
 													<img className="icon_65 avatar" src="/assets/imgs/testimonials/testimonials-1/avatar-2.png" alt="infinia" />
 													<h6 className="ms-2 mb-0">John Doe <span className="fs-6 fw-regular"> - Head of Legal and Compliance, Tech Innovators</span></h6>
@@ -193,7 +193,7 @@ export default function Testimonials1() {
 													<i className="ri-star-fill fs-7 text-primary-1" />
 													<i className="ri-star-fill fs-7 text-500 " />
 												</div>
-												<h6 className="mb-7">“Working with William was an absolute pleasure. His attention to detail and user-focused design approach significantly improved our product's usability”</h6>
+												<h6 className="mb-7">“Working with muntasir was an absolute pleasure. His attention to detail and user-focused design approach significantly improved our product's usability”</h6>
 												<Link href="/#" className="d-flex align-items-center">
 													<img className="icon_65 avatar" src="/assets/imgs/testimonials/testimonials-1/avatar-1.png" alt="infinia" />
 													<h6 className="ms-2 mb-0">John Doe <span className="fs-6 fw-regular"> - Head of Legal and Compliance, Tech Innovators</span></h6>
@@ -225,7 +225,7 @@ export default function Testimonials1() {
 													<i className="ri-star-fill fs-7 text-primary-1" />
 													<i className="ri-star-fill fs-7 text-500 text-primary-1" />
 												</div>
-												<h6 className="mb-7">“Working with William was an absolute pleasure. His attention to detail and user-focused design approach significantly improved our product's usability”</h6>
+												<h6 className="mb-7">“Working with muntasir was an absolute pleasure. His attention to detail and user-focused design approach significantly improved our product's usability”</h6>
 												<Link href="/#text-primary-1" className="d-flex align-items-center">
 													<img className="icon_65 avatar" src="/assets/imgs/testimonials/testimonials-1/avatar-2.png" alt="infinia" />
 													<h6 className="ms-2 mb-0">John Doe <span className="fs-6 fw-regular"> - Head of Legal and Compliance, Tech Innovators</span></h6>
