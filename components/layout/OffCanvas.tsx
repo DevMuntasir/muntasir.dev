@@ -24,11 +24,11 @@ export default function OffCanvas({ isOffCanvas, handleOffCanvas }: any) {
 						</div>
 						<div className="mb-3">
 							<span className="text-400 fs-5">Skype</span>
-							<p className="mb-0">WilliamDesignUX</p>
+							<p className="mb-0">muntasirudoy</p>
 						</div>
 						<div className="mb-3">
 							<span className="text-400 fs-5">Address</span>
-							<p className="mb-0">0811 Erdman Prairie Road, Joaville, California 90210</p>
+							<p className="mb-0">Mohammadpur, Dhaka, 1207, Bangladesh</p>
 						</div>
 					</div>
 					<div className="contact-list">

@@ -298,7 +298,7 @@ export default function Services() {
 										</div>
 										<div className="ps-3">
 											<span className="text-400 fs-5">Skype</span>
-											<h6 className="mb-0">WilliamDesignUX</h6>
+											<h6 className="mb-0">muntasirudoy</h6>
 										</div>
 										<Link href="/skype:SKYPENAME?add" className="position-absolute top-0 start-0 w-100 h-100" />
 									</div>

@@ -73,7 +73,7 @@ export default function Contact2() {
 								</div>
 								<div className="ps-3 h-100">
 									<span className="text-400 fs-6">Skype</span>
-									<h6 className="mb-0">WilliamDesignUX</h6>
+									<h6 className="mb-0">muntasirudoy</h6>
 								</div>
 								<a href="skype:SKYPENAME?add" className="position-absolute top-0 start-0 w-100 h-100" />
 							</div>
